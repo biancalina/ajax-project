@@ -1,0 +1,13 @@
+{
+  "name": "ajax-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.16.1",
+    "lite-server": "^2.5.4"
+  },
+  "scripts": [
+    "start:api": "json-server --watch data/mock.json --port 3344"
+  ]
+}
