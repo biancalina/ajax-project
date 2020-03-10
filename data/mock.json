@@ -1,0 +1,72 @@
+{
+  "animal": [
+    {
+      "name": "Tasha",
+      "specie": "dog",
+      "age": 9,
+      "id": 1
+    },
+    {
+      "name": "Tom",
+      "specie": "cat",
+      "age": 3,
+      "id": 2
+    },
+    {
+      "name": "Jerry",
+      "specie": "mouse",
+      "age": 5,
+      "id": 3
+    }
+  ],
+  "weather": [
+    {
+      "city": "London",
+      "temperature": 10,
+      "humidity": "80%",
+      "unit": "degrees",
+      "id": 1
+    },
+    {
+      "city": "Brasov",
+      "temperature": 15,
+      "humidity": "50%",
+      "unit": "degrees",
+      "id": 2
+    },
+    {
+      "city": "Dubai",
+      "temperature": 35,
+      "humidity": "10%",
+      "unit": "degrees",
+      "id": 3
+    },
+    {
+      "city": "Manchester",
+      "temperature": 5,
+      "humidity": "40%",
+      "unit": "degrees",
+      "id": 4
+    }
+  ],
+  "food": [
+    {
+      "name": "rice",
+      "rating": 5,
+      "spice-level": "medium",
+      "id": 1
+    },
+    {
+      "name": "burrito",
+      "rating": 5,
+      "spice-level": "volcano",
+      "id": 1
+    },
+    {
+      "name": "chicken salad",
+      "rating": 5,
+      "spice-level": "mild",
+      "id": 1
+    }
+  ]
+}
