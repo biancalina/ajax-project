@@ -9,6 +9,6 @@
   },
   "scripts": {
     "start:api": "json-server --watch data/mock.json --port 3344",
-    "start:web": "lite-server -c config/lite-server.json"
+    "start:web": "lite-server --c config/lite-server.json"
   }
 }
