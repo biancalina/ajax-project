@@ -1,0 +1,7 @@
+{
+  "port": 3344,
+  "files": ["./web/**/*.{html,css,js}"],
+  "server": {
+    "baseDir": "./web"
+  }
+}

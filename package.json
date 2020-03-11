@@ -8,6 +8,7 @@
     "lite-server": "^2.5.4"
   },
   "scripts": {
-    "start:api": "json-server --watch data/mock.json --port 3344"
+    "start:api": "json-server --watch data/mock.json --port 3344",
+    "start:web": "lite-server -c config/lite-server.json"
   }
 }
