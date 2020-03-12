@@ -1,4 +1,34 @@
 #view::before {
   content: 'WAIT';
+}
 
+#view.view-one::before {
+  content: '';
+}
+
+tr:nth-child(odd) {
+  background: #242424;
+}
+
+tr:nth-child(even) {
+  background: #122442;
+}
+
+thead td {
+  background: #122442;
+}
+
+td {
+  color: white;
+  padding: 10px 20px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table,
+td {
+  border: 1px solid #555;
 }
